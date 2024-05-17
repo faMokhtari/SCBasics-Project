@@ -1,6 +1,7 @@
 # Biology Website
 
 This website is a project for SheCodes' Introduction to Programming course. It contains HTML and CSS and a little JS.
+See the website live here: https://famokhtari.github.io/SCBasics-Project/
 
 ## Introduction
 
